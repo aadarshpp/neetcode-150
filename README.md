@@ -71,9 +71,6 @@ Each problem has a README of the following format:
 - Time: O(…)
 - Space: O(…)
 
-## Approach
-<short explanation of approach>
-
 ## Link
 - [Leetcode] (<leetcode-link>)
 - [Neetcode] (<neetcode-link>)
