@@ -1,7 +1,4 @@
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Queue;
-import java.util.LinkedList;
+import java.util.*;
 
 // Definition for a binary tree node.
 public class TreeNode {
